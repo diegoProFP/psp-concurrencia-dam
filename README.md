@@ -34,6 +34,6 @@ A nivel general, lo que tendréis que hacer con cada temática es:
         <li>Sincronización con Locks (ReentrantLock, ReadWriteLock)
 </li>
          <li>Testing de concurrencia: cómo realizar test unitarios para entornos concurrentes</li>
-         
+         <li>Uso de ThreadLocal en Java</li>
 </ul>
 
