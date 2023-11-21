@@ -1,0 +1,1 @@
+Readme del tema Testing de concurrencia: cómo realizar test unitarios para entornos concurrentes
