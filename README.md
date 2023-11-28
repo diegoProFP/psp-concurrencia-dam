@@ -1,6 +1,6 @@
 # psp-concurrencia-dam
 Repo para la investigación de materiales sobre concurrencia en Java
-
+(cambio)
 Este repositorio contendrá información y ejemplos sobre temáticas concretas de concurrencia (técnicas, herramientas, librerías, clases…), realizando un estudio teórico sencillo, y después un ejemplo práctico sencillo.
 
 Se hará en grupos de 3 personas, y todos los miembros tendrán que conocer el contenido y estar familiarizado con ello, ya que se podrá evaluar en el examen.
